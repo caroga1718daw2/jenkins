@@ -26,7 +26,7 @@ public class Jenkins {
             bw.write("    Projecte per provar l'IC Jenkins");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
-            bw.close();
+            bw.close(
         }
     }
 }
